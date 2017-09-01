@@ -31,6 +31,6 @@ down skip and not letting go it will take you back to the welcome screen. The LE
 different sequence while playing the song and will be all off if no song is being played.
 
 Technologies and components used in custom lab:
-The technologies that we used are the AVR studio 6, the ATmega1284, debugger, LEDs, resistors, 
+The technologies that we used are the AVR studio 6 which is where we wrote the C code, which we then compiled and pushed it to the board. We also used the ATmega1284, debugger, LEDs, resistors, 
 potentiometer. We also used a speaker, buttons, LCD, breadboard and microprocessor.
 Which were all provided by IEEE.
