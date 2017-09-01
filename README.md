@@ -33,3 +33,4 @@ different sequence while playing the song and will be all off if no song is bein
 Technologies and components used in custom lab:
 The technologies that we used are the AVR studio 6, the ATmega1284, debugger, LEDs, resistors, 
 potentiometer. We also used a speaker, buttons, LCD, breadboard and microprocessor.
+Which were all provided by IEEE.
