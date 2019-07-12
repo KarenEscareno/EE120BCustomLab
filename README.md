@@ -34,3 +34,5 @@ Technologies and components used in custom lab:
 The technologies that we used are the AVR studio 6 which is where we wrote the C code, which we then compiled and pushed it to the board. We also used the ATmega1284, debugger, LEDs, resistors, 
 potentiometer. We also used a speaker, buttons, LCD, breadboard and microprocessor.
 Which were all provided by IEEE.
+
+Youtube link: https://youtu.be/stusaXkYmyQ
